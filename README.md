@@ -37,7 +37,7 @@ Paquetes principales:
 - matplotlib
 - openrouteservice
 - folium
--pyomo (opcional, comparativo)
+- pyomo (para comparaciones)
 
 ```bash
 pip install pandas numpy matplotlib openrouteservice folium jupyter
