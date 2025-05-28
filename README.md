@@ -8,6 +8,7 @@ María José Amorocho
 Este repositorio contiene la tercera entrega del proyecto del curso Modelado, Optimización y Simulación. En esta etapa se implementan y reportan soluciones al problema de ruteo de vehículos (CVRP) mediante algoritmos genéticos y herramientas de optimización.
 
 # Estructura del repositorio
+```
 MOS-Entrega-3/
 ├── Entrega 2/                # Notebook y materiales de la entrega anterior
 │   └── ...
@@ -21,7 +22,7 @@ MOS-Entrega-3/
 ├── Entrega 3.ipynb           # Notebook principal de la Entrega 3
 ├── detalles_solucion.txt     # Descripción de resultados
 └── README.md                 # Este archivo
-
+```
 
 # Contenido
 - `Entrega 3.ipynb`: notebook donde se implementa un algoritmo genético para CVRP y se realizan visualizaciones de rutas
