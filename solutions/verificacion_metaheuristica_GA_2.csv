@@ -1,0 +1,7 @@
+VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
+VEH1,CD1,101,CD1-C5-C3-C8-C7-C9-C2-C1-C4-C6-CD1,9,5-15-10-12-15-15-12-6-11,190.89000000000001,0,578797.569
+VEH2,CD1,0,0,0,0,0.0,0,0.0
+VEH3,CD1,0,0,0,0,0.0,0,0.0
+VEH4,CD1,0,0,0,0,0.0,0,0.0
+VEH5,CD1,0,0,0,0,0.0,0,0.0
+VEH6,CD1,0,0,0,0,0.0,0,0.0
