@@ -1,0 +1,12 @@
+Solution Details:
+Total Fitness (Cost): 297843.18
+Deposito: 1
+
+Vehículo 1: 1 -> 6 -> 4 -> 9 -> 8 -> 10 -> 3 -> 2 -> 5 -> 7 -> 1. Costo: 297843.18
+Vehículo 2: No visita ningún cliente. Costo: 0.00
+Vehículo 3: No visita ningún cliente. Costo: 0.00
+Vehículo 4: No visita ningún cliente. Costo: 0.00
+Vehículo 5: No visita ningún cliente. Costo: 0.00
+Vehículo 6: No visita ningún cliente. Costo: 0.00
+
+Costo Total: 297843.18
